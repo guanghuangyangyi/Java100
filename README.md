@@ -2,11 +2,11 @@
 
 ## Lv.01
 
-- ### [Java基础](./Lv01 Java基础/README.md)
+- ### [Java基础](Lv01_Java基础/README.md)
 
 ## Lv.02
 
-- ### [MySQL](./Lv02 MySQL/README.md)
+- ### [MySQL](Lv02_MySQL/README.md)
 
 ## Lv.03
 
@@ -14,7 +14,7 @@
 
 ## Lv.04
 
-- ### [Java8](./Lv04 Java8/README.md)
+- ### [Java8](./Lv04_Java8/README.md)
 
 ## Lv.05
 
@@ -78,7 +78,7 @@
 
 ## Lv.20
 
-- ### [Git](./Lv20 Git/README.md)
+- ### [Git](./Lv20_Git/README.md)
 
 ## Lv.21
 
@@ -110,7 +110,7 @@
 
 ## Lv.28
 
-- ### [JUC](./Lv28 JUC/README.md)
+- ### [JUC](./Lv28_JUC/README.md)
 
 ## Lv.29
 
@@ -146,7 +146,7 @@
 
 ## Lv.37
 
-- ### [Oracle](./Lv37 Oracle/README.md)
+- ### [Oracle](./Lv37_Oracle/README.md)
 
 ## Lv.38
 
@@ -202,11 +202,11 @@
 
 ## LV.51
 
-- ### [VUE](./Lv51 Vue/README.md)
+- ### [VUE](./Lv51_Vue/README.md)
 
 ## LV.52
 
-- [常用工具](/Lv52 常用工具/README.md)
+- [常用工具](./Lv52_常用工具/README.md)
 
 
 
